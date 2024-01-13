@@ -5,7 +5,7 @@ stop vaping and obfuscate your code 🙏🙏🙏
 roblox executor :D
 
 Steps:
-Run 'crackz.py' inside the 'crack' folder
+Run 'runTHIS.py'
 
 Boom
 Vision crack :O
