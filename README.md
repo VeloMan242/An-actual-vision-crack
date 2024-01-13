@@ -9,3 +9,5 @@ Run 'crackz.py' inside the 'crack' folder
 
 Boom
 Vision crack :O
+
+Privated because this is literally just an automatic login lol. This aint no vision crack lil bro 🙏🙏🙏
