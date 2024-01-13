@@ -9,3 +9,5 @@ Run 'runTHIS.py'
 
 Boom
 Vision crack :O
+
+DO NOT TRUST WHATMAN HE WILL AND PROBABLY HAS PUT RATS OR VIRUSES IN HIS 'crack'
